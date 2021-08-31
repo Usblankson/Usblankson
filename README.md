@@ -1,5 +1,5 @@
 ### Hello, Geeks!👋
-**I'm Uyohoini Blankson.** 
+My name is Uyohoini Blankson and I'm a software developer.
 - 👯 I’m looking to collaborate on Projects...
 - 💬 Ask me about Clean Codes
 
@@ -19,7 +19,17 @@
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJs</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> PHP</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"> Java</code>
+
+
+&nbsp;
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![VS Code](https://img.shields.io/badge/Editor-VSCode-2bbc8a.svg?logo=visual-studio-code)
+![](https://img.shields.io/badge/Git-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Usblankson">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Usblankson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Usblankson's GitHub Stats" />
