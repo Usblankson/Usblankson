@@ -1,7 +1,7 @@
 ### Hello, Geeks!👋
 My name is Uyohoini Blankson and I'm a software developer.
 - 👯 I’m looking to collaborate on Projects...
-- 💬 Ask me about Clean Codes
+- 💬 Looking for a Mentor (Coach)...
 
 <br/>
 <br/>
