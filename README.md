@@ -1,6 +1,7 @@
-<div  display="flex" align="center">
+ 
+ <div  display="flex" align="center">
  <div>
-  ### Hello, Geeks!👋
+
 <!-- My name is Uyohoini Blankson and I'm a software developer. <br>
 - 👯 I’m looking forward to collaborate on Projects... <br>
 - 💬 Looking for a Mentor (Coach)... -->
