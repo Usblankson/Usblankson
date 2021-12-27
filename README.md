@@ -1,9 +1,9 @@
 <div  display="flex" align="center">
  <div>
   ### Hello, Geeks!👋
-My name is Uyohoini Blankson and I'm a software developer. <br>
+<!-- My name is Uyohoini Blankson and I'm a software developer. <br>
 - 👯 I’m looking forward to collaborate on Projects... <br>
-- 💬 Looking for a Mentor (Coach)...
+- 💬 Looking for a Mentor (Coach)... -->
 </div>
 </div>
 
@@ -13,7 +13,7 @@ My name is Uyohoini Blankson and I'm a software developer. <br>
 <br/>
 <div align="center">
 <p align="center">
-  <a href="https://github.com/richardingwe?tab=followers">
+  <a href="https://github.com/usblankson?tab=followers">
     <img src="https://img.shields.io/github/followers/richardingwe?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/BlanksonUs">
@@ -21,9 +21,10 @@ My name is Uyohoini Blankson and I'm a software developer. <br>
   </a>
 </p>
  
+<!--  
 [![Linkedin: uyohoiniblanksona827b1117](https://img.shields.io/badge/-uyohoiniblankson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/uyohoini-blankson-a827b1117)](https://www.linkedin.com/in/uyohoini-blankson-a827b1117)
 
-
+ -->
 
     
 
