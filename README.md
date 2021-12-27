@@ -1,19 +1,17 @@
  
- <div  display="flex" align="center">
- <div>
+##  Helo, Geeks! 
 
-<!-- My name is Uyohoini Blankson and I'm a software developer. <br>
+ My name is Uyohoini Blankson and I'm a software developer. <br>
 - 👯 I’m looking forward to collaborate on Projects... <br>
-- 💬 Looking for a Mentor (Coach)... -->
-</div>
-</div>
+- 💬 Looking for a Mentor (Coach)... 
+
 
 
 
 <br/>
 <br/>
-<div align="center">
-<p align="center">
+<div>
+<p>
   <a href="https://github.com/usblankson?tab=followers">
     <img src="https://img.shields.io/github/followers/richardingwe?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
@@ -31,7 +29,7 @@
 
 
 ## 🔧 Technologies & Tools
-<p align="center">
+<p>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React.js</code>
 <code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJs</code>
