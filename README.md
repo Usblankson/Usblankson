@@ -17,7 +17,7 @@ My name is Uyohoini Blankson and I'm a software developer. <br>
     <img src="https://img.shields.io/github/followers/richardingwe?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/BlanksonUs">
-    <img src="https://img.shields.io/twitter/follow/BlanksonUs?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/BlanksonUs?label=Twitter&logo=twitter&style=for-the-badge"alt="Twitter badge" />
   </a>
 </p>
  
