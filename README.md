@@ -1,13 +1,17 @@
  
 ##  Helo, Geeks! 
-
+<div>
+<div align="left">
  My name is Uyohoini Blankson and I'm a software developer. <br>
 - 👯 I’m looking forward to collaborate on Projects... <br>
 - 💬 Looking for a Mentor (Coach)... 
 - I love JavaScript❤️
 
-
-
+ </div>
+ <div align="right" margin-top="0px">
+ <a href="https://app.daily.dev/Usblankson"><img src="https://api.daily.dev/devcards/91c2e67a428a47a6bfef31f57c9a28a1.png?r=cxo" width="400" alt="Uyohoini Blankson's Dev Card"/></a>
+</div>
+</div>
 
 <br/>
 <br/>
