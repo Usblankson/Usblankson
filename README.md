@@ -37,7 +37,7 @@
 
 - I love JavaScript❤️
 - A Web3 enthusiast 
-<!-- - Loves a freshly brewed cup of coffee -->
+
 <!--
  My name is Uyohoini Blankson and I'm a software developer. <br>
 - 👯 I’m looking forward to collaborate on Projects... <br>
@@ -94,7 +94,6 @@
 <br> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usblankson&show_icons=true&theme=tokyonight" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=usblankson&theme=tokyonight" /> -->
 </p>
 
 
