@@ -40,7 +40,7 @@
 
 <!--
  My name is Uyohoini Blankson and I'm a software developer. <br>
-- 👯 I’m looking forward to collaborate on Projects... <br>
+- 👯 I look forward to collaborate on Projects... <br>
 - 💬 Looking for a Mentor (Coach)... 
 -
  
