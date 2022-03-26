@@ -29,6 +29,8 @@
       src="https://api.daily.dev/devcards/91c2e67a428a47a6bfef31f57c9a28a1.png?r=cxo"
     />
   </a>
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="uyohoini-blankson-a827b1117" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/uyohoini-blankson-a827b1117?trk=profile-badge">Uyohoini Blankson</a></div>
+              
 </div>
 
 <br />
