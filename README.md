@@ -37,8 +37,8 @@
 
 ## I am Uyohoini Blankson
 
-- I love JavaScript❤️
-- A Web3 enthusiast 
+- A Mobile Software Engineer
+- An AI enthusiast 
 
 <!--
  My name is Uyohoini Blankson and I'm a software developer. <br>
